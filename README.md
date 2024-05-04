@@ -1,4 +1,4 @@
-# ShiftCloneEffectPlugin(本体はまだ入れてません。少々お待ちください。)
+# ShiftCloneEffectPlugin
 ### 概要
 これはYukkuriMovieMaker4のプラグインでございます。
 エフェクトを付与すると指定した方向に、指定された時間間隔で複製されます。
