@@ -30,7 +30,8 @@
 ### その他（バグ報告など）
 もしプラグイン使用時に不具合が発生した場合、X[@sinBetaKun](https://twitter.com/sinBetaKun)にDMで報告していただければ幸いです。
 
-Discordサーバー：[<|WAVER|>](https://discord.gg/pCtyFvjEcj)
+
+Discordサーバー：[<| WAVER |>](https://discord.gg/pCtyFvjEcj)
 
 Youtube：[sinβ](https://www.youtube.com/channel/UC2OPgB9tWpc0BDAFz0awvOw) / [cosβ](https://www.youtube.com/channel/UCmRpK-5G1RJsEeyeiYCIp2g)
 
