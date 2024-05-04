@@ -31,6 +31,6 @@
 もしプラグイン使用時に不具合が発生した場合、X[@sinBetaKun](https://twitter.com/sinBetaKun)にDMで報告していただければ幸いです。
 
 ### 宣伝
-1. Discordサーバー：[<| WAVER |>](https://discord.gg/pCtyFvjEcj)
-2. Youtube：[sinβ](https://www.youtube.com/channel/UC2OPgB9tWpc0BDAFz0awvOw) / [cosβ](https://www.youtube.com/channel/UCmRpK-5G1RJsEeyeiYCIp2g)
-3. Niconico：[sinβ](https://www.nicovideo.jp/user/128637693)
+* Discordサーバー：[<| WAVER |>](https://discord.gg/pCtyFvjEcj)
+* Youtube：[sinβ](https://www.youtube.com/channel/UC2OPgB9tWpc0BDAFz0awvOw) / [cosβ](https://www.youtube.com/channel/UCmRpK-5G1RJsEeyeiYCIp2g)
+* Niconico：[sinβ](https://www.nicovideo.jp/user/128637693)
