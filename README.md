@@ -1,3 +1,4 @@
+![image](https://github.com/sinBetaKun/ShiftCloneEffectPlugin/assets/149294811/0499dded-d8e9-4b4a-896c-9e4ce3a5ca8c)
 # ShiftCloneEffectPlugin
 ### 概要
 これはYukkuriMovieMaker4のプラグインでございます。
