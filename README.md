@@ -1,9 +1,11 @@
+![image](https://github.com/sinBetaKun/ShiftCloneEffectPlugin/assets/149294811/f50808f9-5643-4813-a7dc-9b7e00f1f54e)
 # ShiftCloneEffectPlugin
 ### 修正点（5/11）
 図形のプロパティを変更するとエラーが発生したという報告を受け、その問題を解決いたしました。本プラグインをご利用になられている皆様に多大のご迷惑をおかけし、誠に申し訳ございませんでした。お詫びに、いくつか機能を追加いたしました（いらねぇぇ!!）
 1. フェードイン・アウト
 2. クローンの初期・終了時の個数の指定
 3. 2のクローンの透明度有効・無効の切り替え
+![image](https://github.com/sinBetaKun/ShiftCloneEffectPlugin/assets/149294811/ef076267-8a64-4a06-aa36-ff6c8f0c68cb)
 
 ### 概要
 これはYukkuriMovieMaker4のプラグインでございます。
