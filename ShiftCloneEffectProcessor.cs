@@ -174,7 +174,7 @@ namespace ShiftCloneEffectPlugin
 
                 for (int i = (order) ? amount3 : amount4 - 1; range(i); i += adder)
                 {
-                    var num3 = (fadein > 0 && !(!beginOp && beginNum >= i)) ? calcNum3(i) : 1;
+                    var num3 = (fadein > 0 && !(!beginOp && beginNum > i)) ? calcNum3(i) : 1;
                     var num4 = (fadeout > 0 && !(!endOp && range2(i))) ? calcNum4(i) : 1;
                     var num5 = (num3 < num4) ? num3 : num4;
                     if (num5 < 1)
