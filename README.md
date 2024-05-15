@@ -1,5 +1,5 @@
-![image](https://github.com/sinBetaKun/ShiftCloneEffectPlugin/assets/149294811/f50808f9-5643-4813-a7dc-9b7e00f1f54e)
 # ShiftCloneEffectPlugin
+![image](https://github.com/sinBetaKun/ShiftCloneEffectPlugin/assets/149294811/f50808f9-5643-4813-a7dc-9b7e00f1f54e)
 ### 修正点（5/11）
 図形のプロパティを変更するとエラーが発生したという報告を受け、その問題を解決いたしました。本プラグインをご利用になられている皆様に多大のご迷惑をおかけし、誠に申し訳ございませんでした。お詫びに、いくつか機能を追加いたしました（いらねぇぇ!!）
 1. フェードイン・アウト
