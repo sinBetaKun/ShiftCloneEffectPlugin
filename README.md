@@ -5,6 +5,7 @@
 1. フェードイン・アウト
 2. クローンの初期・終了時の個数の指定
 3. 2のクローンの透明度有効・無効の切り替え
+4. クローン生成の奥行方向の切り替え
 ![image](https://github.com/sinBetaKun/ShiftCloneEffectPlugin/assets/149294811/ef076267-8a64-4a06-aa36-ff6c8f0c68cb)
 
 ### 概要
