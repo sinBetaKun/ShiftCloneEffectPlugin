@@ -1,5 +1,4 @@
-# ShiftCloneEffectPlugin
-# 【注意】動画から来た人は『修正点』を必ず読んでください。
+# ShiftCloneEffectPlugin【注意】動画から来た人は『修正点』を必ず読んでください。
 ![image](https://github.com/sinBetaKun/ShiftCloneEffectPlugin/assets/149294811/f50808f9-5643-4813-a7dc-9b7e00f1f54e)
 
 ### 修正点（2024/8/31）【動画から来た人は要注意】
